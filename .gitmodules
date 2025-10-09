@@ -1,3 +1,6 @@
 [submodule "Formacao_APIsComNodeJsEExpress/3374-nodejs-express-sequelize"]
 	path = Formacao_APIsComNodeJsEExpress/3374-nodejs-express-sequelize
 	url = git@github.com:Luidi1/3374-nodejs-express-sequelize.git
+[submodule "Formacao_APIsComNodeJsEExpress/3414-node-sequelize-II"]
+	path = Formacao_APIsComNodeJsEExpress/3414-node-sequelize-II
+	url = git@github.com:alura-cursos/3414-node-sequelize-II.git
