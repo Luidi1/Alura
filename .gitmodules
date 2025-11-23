@@ -4,3 +4,6 @@
 [submodule "Formacao_APIsComNodeJsEExpress/3414-node-sequelize-II"]
 	path = Formacao_APIsComNodeJsEExpress/3414-node-sequelize-II
 	url = git@github.com:Luidi1/3414-node-sequelize-II.git
+[submodule "Formacao_APIsComNodeJsEExpress/4548-swagger-documentation"]
+	path = Formacao_APIsComNodeJsEExpress/4548-swagger-documentation
+	url = git@github.com:Luidi1/4548-swagger-documentation.git
