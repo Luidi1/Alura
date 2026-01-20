@@ -1,8 +1,8 @@
 [submodule "Formacao_APIsComNodeJsEExpress/3374-nodejs-express-sequelize"]
-	path = Formacao_APIsComNodeJsEExpress/3374-nodejs-express-sequelize
+	path = Formacao_APIsComNodeJsEExpress/ORM_com_Node.js_desenvolvendo_uma_API_com_Sequelize_e_SQLite
 	url = git@github.com:Luidi1/3374-nodejs-express-sequelize.git
 [submodule "Formacao_APIsComNodeJsEExpress/3414-node-sequelize-II"]
-	path = Formacao_APIsComNodeJsEExpress/3414-node-sequelize-II
+	path = Formacao_APIsComNodeJsEExpress/ORM_com_Node.js_avancando_nas_funcionalidades_do_Sequelize
 	url = git@github.com:Luidi1/3414-node-sequelize-II.git
 [submodule "Formacao_APIsComNodeJsEExpress/4548-swagger-documentation"]
 	path = Formacao_APIsComNodeJsEExpress/4548-swagger-documentation
