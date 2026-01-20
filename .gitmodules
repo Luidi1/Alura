@@ -7,3 +7,6 @@
 [submodule "Formacao_APIsComNodeJsEExpress/4548-swagger-documentation"]
 	path = Formacao_APIsComNodeJsEExpress/4548-swagger-documentation
 	url = git@github.com:Luidi1/4548-swagger-documentation.git
+[submodule "formacaoAPartirDoZero/CursoDeLogicaDeProgramacao_PraticandoComDesafios_Alura"]
+	path = formacaoAPartirDoZero/CursoDeLogicaDeProgramacao_PraticandoComDesafios_Alura
+	url = git@github.com:Luidi1/CursoDeLogicaDeProgramacao_PraticandoComDesafios_Alura.git
