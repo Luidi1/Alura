@@ -10,3 +10,9 @@
 [submodule "formacaoAPartirDoZero/CursoDeLogicaDeProgramacao_PraticandoComDesafios_Alura"]
 	path = formacaoAPartirDoZero/CursoDeLogicaDeProgramacao_PraticandoComDesafios_Alura
 	url = git@github.com:Luidi1/CursoDeLogicaDeProgramacao_PraticandoComDesafios_Alura.git
+[submodule "Formacao_APIsComNodeJsEExpress/WebSockets_implemente_comunicacoes_em_tempo_real_com_Socket.IO_e_MongoDB"]
+	path = Formacao_APIsComNodeJsEExpress/WebSockets_implemente_comunicacoes_em_tempo_real_com_Socket.IO_e_MongoDB
+	url = git@github.com:Luidi1/WebSockets_implemente_comunicacoes_em_tempo_real_com_Socket.IO_e_MongoDB.git
+[submodule "Formacao_APIsComNodeJsEExpress/WebSockets_implemente_autenticacao_e_avance_no_Socket.IO"]
+	path = Formacao_APIsComNodeJsEExpress/WebSockets_implemente_autenticacao_e_avance_no_Socket.IO
+	url = git@github.com:Luidi1/WebSockets_implemente_autenticacao_e_avance_no_Socket.IO.git
