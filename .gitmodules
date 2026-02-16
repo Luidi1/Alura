@@ -19,3 +19,6 @@
 [submodule "FormacaoAutenticaçãoTestesESegurancaEmNode.js/Node.jsTestesUnitariosEDeIntegracao"]
 	path = FormacaoAutenticaçãoTestesESegurancaEmNode.js/Node.jsTestesUnitariosEDeIntegracao
 	url = git@github.com:Luidi1/Node.jsTestesUnitariosEDeIntegracao.git
+[submodule "Node.jsTestesUnitariosEDeIntegracao"]
+	path = Node.jsTestesUnitariosEDeIntegracao
+	url = git@github.com:Luidi1/Node.jsTestesUnitariosEDeIntegracao.git
