@@ -16,3 +16,6 @@
 [submodule "Formacao_APIsComNodeJsEExpress/WebSockets_implemente_autenticacao_e_avance_no_Socket.IO"]
 	path = Formacao_APIsComNodeJsEExpress/WebSockets_implemente_autenticacao_e_avance_no_Socket.IO
 	url = git@github.com:Luidi1/WebSockets_implemente_autenticacao_e_avance_no_Socket.IO.git
+[submodule "FormacaoAutenticaçãoTestesESegurancaEmNode.js/Node.jsTestesUnitariosEDeIntegracao"]
+	path = FormacaoAutenticaçãoTestesESegurancaEmNode.js/Node.jsTestesUnitariosEDeIntegracao
+	url = git@github.com:Luidi1/Node.jsTestesUnitariosEDeIntegracao.git
